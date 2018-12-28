@@ -4,3 +4,4 @@ Git is strong.
 Git is very nice.
 Git is our friend.
 Unchanged Staged.
+insert one line.
