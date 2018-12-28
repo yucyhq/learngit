@@ -3,3 +3,4 @@ Git is free software.
 Git is strong.
 Git is very nice.
 Git is our friend.
+Unchanged Staged.
