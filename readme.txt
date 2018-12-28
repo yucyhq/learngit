@@ -6,3 +6,4 @@ Git is our friend.
 Unchanged Staged.
 insert one line.
 insert two line.
+My stupid boss will pefers SVN.
